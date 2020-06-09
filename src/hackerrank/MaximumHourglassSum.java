@@ -1,10 +1,8 @@
 package hackerrank;
 
-import java.io.*;
-
 public class MaximumHourglassSum {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         int[][] arr = {
                 {1, 1, 1, 0, 0, 0},
